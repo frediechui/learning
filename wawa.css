@@ -1,0 +1,14 @@
+body {
+    background: lightgrey;
+    padding: 25px;
+}
+
+.img, .right-col {
+    width: 49%;
+}
+
+.right-col {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
